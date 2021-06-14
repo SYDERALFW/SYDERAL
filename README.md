@@ -7,10 +7,12 @@ Syderal es un framework  para el diseño y desarrollo de páginas y aplicaciones
 - Conocimiento medio de JS y el DOM.
 
 # Instalación
-- `npm i sydfw` `yarn add sydfw`
-- O descargar los archivos desde la página de Syderal.  `https://syderal.org/usage`
-- Desde el github oficial `https://github.com/FR3DDL/SYDERAL-FW`
-
+- Pronto
 # CDN
-- CSS `<link href >`
-- JS `<script src = "">`
+Pronto
+
+# Cambios en la version
+`Syderal Alfa v0.34`
+- Background Propeties
+- Sizing (width-height)
+- Spacing (margin-padding)
