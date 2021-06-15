@@ -13,7 +13,7 @@ Pronto
 
 # Cambios en la version
 `Syderal Alfa v0.34`
-- Normalizar previamente instalado y configurado
+- Normalize previamente instalado y configurado
 - Background Propeties
 - Sizing (width-height)
 - Spacing (margin-padding)
