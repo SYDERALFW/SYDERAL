@@ -1,10 +1,10 @@
 # SyderalFW
 
-Syderal es un framework  para el diseño y desarrollo de páginas y aplicaciones web frontend de manera rápida y eficáz. El desarrollo en Syderal es fácil para todos y rápido, puedes crear interfaces increíbles y nunca pensadas.
+Syderal es un framework css  para el diseño y desarrollo de páginas y aplicaciones web frontend de manera rápida y eficáz. Crea interfaces increíbles y jamás pensadas.
 
 ## Requsitos del desarrollador
 - Conocimiento medio de CSS
-- Conocimiento medio de JS y el DOM.
+
 
 # Instalación
 - Pronto
