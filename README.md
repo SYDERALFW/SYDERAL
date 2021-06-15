@@ -16,3 +16,4 @@ Pronto
 - Background Propeties
 - Sizing (width-height)
 - Spacing (margin-padding)
+- Estilos de texto
