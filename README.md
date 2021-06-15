@@ -1,20 +1,14 @@
-# SyderalFW
+# SyderalCSS 
 
-Syderal es un framework css  para el diseño y desarrollo de páginas y aplicaciones web frontend de manera rápida y eficáz. Crea interfaces increíbles y jamás pensadas.
-
-## Requsitos del desarrollador
-- Conocimiento medio de CSS
-
+Syderal is a css framework for the design and development of frontend web pages and applications quickly and efficiently. Create incredible and never thought interfaces.
 
 # Instalación
-- Pronto
-# CDN
-Pronto
+- Soon
 
-# Cambios en la version
-`Syderal Alfa v0.34`
-- Normalize previamente instalado y configurado
+# Version changes
+`Syderal Alpha v0.34`
+- Normalize previously installed and configured
 - Background Propeties
 - Sizing (width-height)
 - Spacing (margin-padding)
-- Estilos de texto
+- Text styles
