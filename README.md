@@ -1,16 +1,21 @@
-# SyderalFW
+# SyderalCSS 
 
-Syderal es un framework  para el diseño y desarrollo de páginas y aplicaciones web frontend de manera rápida y eficáz. El desarrollo en Syderal es fácil para todos y rápido, puedes crear interfaces increíbles y nunca pensadas.
-
-## Requsitos del desarrollador
-- Conocimiento medio de CSS
-- Conocimiento medio de JS y el DOM.
+Syderal is a css framework for the design and development of frontend web pages and applications quickly and efficiently. Create incredible and never thought interfaces.
 
 # Instalación
-- `npm i sydfw` `yarn add sydfw`
-- O descargar los archivos desde la página de Syderal.  `https://syderal.org/usage`
-- Desde el github oficial `https://github.com/FR3DDL/SYDERAL-FW`
+- Soon
 
-# CDN
-- CSS `<link href >`
-- JS `<script src = "">`
+
+# Developing
+Syderal is in a very, very very early phase, it has approximately 15% done. But new development features are added with each update. So that the day you are ready, you will fulfill your role and help front-end web developers.
+
+`With much ❤ fr3dev`
+
+
+# Version changes
+`Syderal Alpha v0.34`
+- Normalize previously installed and configured
+- Background Propeties
+- Sizing (width-height)
+- Spacing (margin-padding)
+- Text styles
