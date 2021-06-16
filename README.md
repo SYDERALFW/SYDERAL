@@ -1,4 +1,4 @@
-# SyderalCSS 
+# SyderalCSS 0.45.2
 
 Syderal is a css framework for the design and development of frontend web pages and applications quickly and efficiently. Create incredible and never thought interfaces.
 
