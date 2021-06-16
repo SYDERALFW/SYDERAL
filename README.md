@@ -6,7 +6,7 @@ Syderal is a css framework for the design and development of frontend web pages 
 - Soon
 
 # CDN
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/FR3DDL/SYDERAL@latest/src/syderalfw.min.css">
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/FR3DDL/SYDERAL@latest/src/syderalfw.min.css">`
 
 # Developing
 Syderal is in a very, very very early phase, it has approximately 15% done. But new development features are added with each update. So that the day you are ready, you will fulfill your role and help front-end web developers.
