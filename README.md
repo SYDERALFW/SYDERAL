@@ -15,6 +15,11 @@ Syderal is in a very, very very early phase, it has approximately 15% done. But 
 
 
 # Version changes
+
+`Syderal Alpha v0.45.4`
+- Remodelation in the code. Nothing changes in the classes, only the sepration of the code to make Syderal faster
+
+
 `Syderal Alpha v0.45.2`
 - Normalize 8 previously installed and configured
 - 5 fonts pre-installed and ready to use
