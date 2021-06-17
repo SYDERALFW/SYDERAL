@@ -1,0 +1,135 @@
+.roundness-none {
+    border-radius: 0px;
+  }
+ 
+  .roudness {
+    border-radius: 0.25rem;
+  }
+ 
+  .roundness-sm {
+    border-radius: 3px;
+  }
+ 
+  .roundness-m {
+    border-radius: 6px;
+  }
+ 
+  .roundness-lg {
+    border-radius: 9px;
+  }
+ 
+  .roundness-full {
+    border-radius: 100%;
+  }
+ 
+  .roundness-t-none {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+ 
+  .roundness-b-none {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+ 
+  .roundness-r-none {
+    border-top-right-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+ 
+  .roundness-l-none {
+    border-top-left-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+ 
+  .roudness-t-sm {
+    border-top-left-radius: 0.125rem;
+    border-top-right-radius: 0.125rem;
+  }
+ 
+  .roudness-t {
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+ 
+  .roudness-t-m {
+    border-top-left-radius: 0.375rem;
+    border-top-right-radius: 0.375rem;
+  }
+ 
+  .roudness-t-lg {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+ 
+  .roudness-r-sm {
+    border-top-right-radius: 0.125rem;
+    border-bottom-right-radius: 0.125rem;
+  }
+ 
+  .roudness-r {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+  }
+ 
+  .roudness-r-m {
+    border-top-right-radius: 0.375rem;
+    border-bottom-right-radius: 0.375rem;
+  }
+ 
+  .roudness-r-lg {
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+  }
+ 
+  .roudness-l-sm {
+    border-top-left-radius: 0.125rem;
+    border-bottom-left-radius: 0.125rem;
+  }
+ 
+  .roudness-l {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+ 
+  .roudness-l-m {
+    border-top-left-radius: 0.375rem;
+    border-bottom-left-radius: 0.375rem;
+  }
+ 
+  .roudness-l-lg {
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+  }
+ 
+  .roudness-b-sm {
+    border-bottom-left-radius: 0.125rem;
+    border-bottom-right-radius: 0.125rem;
+  }
+ 
+  .roudness-b {
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+  }
+ 
+  .roudness-b-m {
+    border-bottom-left-radius: 0.375rem;
+    border-bottom-right-radius: 0.375rem;
+  }
+ 
+  .roudness-b-lg {
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+  }
+ 
+  .border-solid {
+    border-style: solid;
+  }
+ 
+  .border-dashed {
+    border-style: dashed;
+  }
+ 
+  .border-none {
+    border-style: none;
+  }
