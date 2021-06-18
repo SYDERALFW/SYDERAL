@@ -1,0 +1,1 @@
+Here you can include components of a website like navbars, footers menus, buttons. All things what you want, to reutilize after in the project

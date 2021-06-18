@@ -148,11 +148,11 @@
   }
  
   .txt-start {
-    text-align: right;
+    text-align: left;
   }
  
   .txt-end {
-    text-align: left;
+    text-align: right;
   }
  
   .txt-center {
@@ -161,4 +161,12 @@
  
   .txt-justify {
     text-align: justify;
+  }
+
+  .txt-color-light {
+    color: #fff;
+  }
+
+  .txt-color-dark {
+    color: rgb(24, 24, 24);
   }
