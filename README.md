@@ -33,9 +33,6 @@ Syderal is in a very, very very early phase, it has approximately 15% done. But 
 - To Padding use now pad-
 - To Margin use now marg-
 
-- `Include Offline Fonts`
-- Syderal knows that some people works in cafeterias, trains or in no-wifi places, so Syderal decided include text fonts in the components folder. For the moment Syderal only have 10 fonts include with the installation or the CDN
-
 `Include a DevNotes folder`
   Syderal avoid comments in the code of your beautiful project with the DevNotes folder, there by default comes a Notes file in which you can write down things to do or anything that only you as a developer, and to prevent it from being uploaded to your repo this included in the default .gitignore
 
