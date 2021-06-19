@@ -4,6 +4,7 @@ Syderal is a css framework for the design and development of frontend web pages 
 
 # Instalación
 - `npm i syderalcss`
+- `<link rel="stylesheet" href="/node_modules/syderalcss/router/main.css"`> in your html file, remember use the .. or the / depending of the folders
 
 # CDN
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/FR3DDL/SYDERAL@latest/router/main.css">`
