@@ -3,7 +3,7 @@
 Syderal is a css framework for the design and development of frontend web pages and applications quickly and efficiently. Create incredible and never thought interfaces.
 
 # Instalación
-- Soon
+- `npm i syderalcss`
 
 # CDN
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/FR3DDL/SYDERAL@latest/router/main.css">`
