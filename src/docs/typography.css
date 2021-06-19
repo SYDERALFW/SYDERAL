@@ -170,3 +170,15 @@
   .txt-color-dark {
     color: rgb(24, 24, 24);
   }
+
+  .txt-decoration-u {
+    text-decoration: underline;
+  }
+
+  .txt-decoration-none {
+    text-decoration: none;
+  }
+
+  .txt-decoration-o {
+    text-decoration:overline;
+  }
